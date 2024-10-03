@@ -1,13 +1,6 @@
-## Please take a moment to fill out our 3 question [Feedback Form](https://forms.gle/2nzS2AQkVGmqHTLV6) and let us know if you would be interested in purchasing template, along with any features you would like to see.
 
-We're developing a new and improved browser extension template with exciting features like authentication, payment processing, and more. Your feedback is crucial to us!
-Thank you for your time and support!
 
-**Note:** Your responses will help shape the future of this project and ensure we meet your needs better.
-
----
-
-# vite-vue3-browser-extension-v3
+# 345 Toolbar Sidepanel based on vite-vue3-browser-extension-v3
 
 [![build](https://github.com/mubaidr/vite-vue3-browser-extension-v3/actions/workflows/build.yml/badge.svg)](https://github.com/mubaidr/vite-vue3-browser-extension-v3/actions/workflows/build.yml) [![release](https://github.com/mubaidr/vite-vue3-browser-extension-v3/actions/workflows/release.yml/badge.svg)](https://github.com/mubaidr/vite-vue3-browser-extension-v3/actions/workflows/release.yml)
 
@@ -15,6 +8,8 @@ A [Vite](https://vitejs.dev/) powered WebExtension ([Chrome](https://developer.c
 
 
 ## Features
+
+
 
 - Vue 3 - Composition API, `Script setup` and more!
 - Vue 3 app in Content Script too (template added)
